@@ -1,2 +1,0 @@
-# QLBVMB
-Đồ án CNPM
